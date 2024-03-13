@@ -1,2 +1,2 @@
-# RWOS
-RWOS: Real-time Water Obstacle Segmentation Network for Unmanned Surface Vehicles in Maritime Environments
+# RSOS
+RSOS-Net: Real-time Surface Obstacle Segmentation Network for Unmanned Waterborne Vehicles
