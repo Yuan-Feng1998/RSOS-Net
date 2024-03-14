@@ -4,7 +4,7 @@
 
 ### Introduction
 
-RSOS-Net is a real-time surface obstacle segmentation network designed for unmanned waterborne vehicles. Utilizing deep learning and computer vision techniques, it accurately segments waterborne obstacles, providing crucial information for autonomous navigation and safe operation of unmanned waterborne vehicles.
+RSOS-Net is a real-time surface obstacle segmentation network designed for unmanned waterborne vehicles. Utilizing deep learning and computer vision techniques, it accurately segments surface obstacles, providing crucial information for autonomous navigation and safe operation of unmanned waterborne vehicles.
 
 ### Installation
 
